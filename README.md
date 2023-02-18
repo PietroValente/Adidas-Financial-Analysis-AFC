@@ -18,7 +18,7 @@ Overall, the "Accounting, Finance & Control" course provided me with the theoret
 ## Team
 - Pietro Valente
 - Marc Sarpentier
-- Giovanni taddei
+- Giovanni Taddei
 - Leonardo Vittori
 - Massimo Valle
 - Ettore Trentinaglia
