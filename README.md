@@ -15,8 +15,6 @@ Throughout the project, I was able to design a tailored performance measurement 
 
 Overall, the "Accounting, Finance & Control" course provided me with the theoretical frameworks and practical tools necessary to conduct a thorough financial analysis of Adidas and make informed recommendations for the company's future financial strategy.
 
-xfun::embed_file("https://github.com/PietroValente/Adidas-Financial-Analysis-AFC/blob/main/ADIDAS%20FINANCIAL%20ANALYSIS.pdf")
-
 ## Team
 - Pietro Valente
 - Marc Sarpentier
