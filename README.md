@@ -5,3 +5,12 @@
 </p>
 
 ## Overview
+
+
+## Team
+- Pietro Valente
+- Marc Sarpentier
+- Giovanni taddei
+- Leonardo Vittori
+- Massimo Valle
+- Ettore Trentinaglia
